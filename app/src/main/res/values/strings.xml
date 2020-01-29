@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">TidalTestApp</string>
+    <string name="artists">Artists</string>
+    <string name="default_error">Something went wrong</string>
+    <string name="albums">Albums</string>
+    <string name="search_for_artists">Search for artists</string>
 </resources>
